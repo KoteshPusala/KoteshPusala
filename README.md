@@ -5,9 +5,9 @@
 🎓 3rd Year CSE @ CBIT, Hyderabad · CGPA: 8.1
 📧 pusalakotesh08@gmail.com · 📱 +91 8019291262
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pusalakotesh/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Pusalakotesh/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KoteshPusala)
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## 🚀 Projects
 
-### [NutriGuard AI](https://github.com/YOUR_LINK)
+### [NutriGuard AI](https://food-product-transparency-engine.vercel.app/)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
@@ -32,7 +32,7 @@ AI-powered food safety platform using OCR and barcode scanning to detect harmful
 
 ---
 
-### [SkillBridge](https://github.com/YOUR_LINK)
+### [SkillBridge](https://skillbridge-4nrz.onrender.com/login)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -41,20 +41,12 @@ AI-powered service marketplace where Llama 3.3 70B generates project guidance an
 
 ---
 
-### [Task Management System](https://github.com/YOUR_LINK)
+### [Task Management System](https://todofrontend-beryl.vercel.app/login)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 Full-stack MERN task manager with JWT authentication, user dashboard, CRUD operations, priority tagging, and dark/light theme support.
-
----
-
-### [Weather Analytics Platform](https://github.com/YOUR_LINK)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-Real-time weather dashboard with hourly & 5-day forecast, air quality index, across **1,00,000+ global locations** via OpenWeatherMap API. Built during Edunet Foundation internship.
 
 ---
 
@@ -91,12 +83,13 @@ Real-time weather dashboard with hourly & 5-day forecast, air quality index, acr
 ---
 
 ## 🏆 Achievements
-
+- 🏆 Ranked among the Top 1,635 teams nationwide in Flipkart GRiDthon. 
+- 📊 **TS EAMCET Rank 9945** among 2,00,000+ candidates
 - 💯 Solved **500+ problems** on LeetCode & HackerRank
 - 🔥 Maintained a **100+ day LeetCode streak**
-- 🏅 **Oracle Cloud Infrastructure 2025** — AI Foundations Associate
-- 📊 **TS EAMCET Rank 9945** among 2,00,000+ candidates
 - 📐 **JEE Advanced Qualified** · JEE Mains 85 Percentile
+- 📊 **HackVega 2.0** Finalist
+-  
 
 ---
 
