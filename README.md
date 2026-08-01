@@ -2,7 +2,7 @@
 
 **Full Stack Developer · Competitive Programmer · AI & ML Enthusiast**
 
-🎓 3rd Year CSE @ CBIT, Hyderabad · CGPA: 8.1
+🎓 4th Year CSE @ CBIT, Hyderabad · CGPA: 8.18
 📧 pusalakotesh08@gmail.com · 📱 +91 8019291262
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pusalakotesh/)
@@ -15,7 +15,7 @@
 
 - 💻 Full Stack Developer specializing in MERN Stack, Next.js, and FastAPI
 - 🤖 Passionate about AI/ML — building real apps with LLMs and Machine Learning
-- 💯 Solved **500+ DSA problems** on LeetCode & HackerRank with a **100+ day streak**
+- 💯 Solved **700+ DSA problems** on LeetCode & HackerRank with a **100+ day streak**
 - 🚀 Love building products that solve real-world problems
 - 🌱 Currently learning System Design, Docker, and Cloud
 
