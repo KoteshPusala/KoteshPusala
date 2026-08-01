@@ -85,8 +85,7 @@ Full-stack MERN task manager with JWT authentication, user dashboard, CRUD opera
 ## 🏆 Achievements
 - 🏆 Ranked among the Top 1,635 teams nationwide in Flipkart GRiDthon. 
 - 📊 **TS EAMCET Rank 9945** among 2,00,000+ candidates
-- 💯 Solved **500+ problems** on LeetCode & HackerRank
-- 🔥 Maintained a **100+ day LeetCode streak**
+- 💯 Solved **700+ problems** on LeetCode & HackerRank
 - 📐 **JEE Advanced Qualified** · JEE Mains 85 Percentile
 - 📊 **HackVega 2.0** Finalist
 -  
